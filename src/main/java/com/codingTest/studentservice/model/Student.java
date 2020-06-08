@@ -1,6 +1,7 @@
 package com.codingTest.studentservice.model;
 
 public class Student {
+    
     private String id;
     private String name;
 
